@@ -1,0 +1,24 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.btn{
+  color: black;
+  background-color: rgb(58, 113, 172);
+  margin-bottom: 5px;
+}
+h2{
+  color: rgb(58, 113, 172);
+  font-weight: bold;
+  font-size:xx-large;
+}
+input{
+  display: flex;
+  flex-direction: column;
+  padding: 8px;
+  margin: 8px;
+  border-radius: 3px;
+}
